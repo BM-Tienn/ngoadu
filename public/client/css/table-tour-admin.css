@@ -1,0 +1,34 @@
+.page-breadcrumb > .row nav > ol.breadcrumb{
+    background-color: white;
+}
+.page-breadcrumb > .row nav > ol.breadcrumb li > a{
+    color: black;
+}
+
+.page-breadcrumb > .row nav > ol.breadcrumb li.active{
+    color: green;
+    font-weight: bold;
+}
+.form-group > label{
+    color: black;
+}
+
+.form-group > select.form-control{
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+
+.form-group > input.form-control{
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+label{
+     color: black;
+}
+.dataTables_info{
+    color: black;
+}
+.cke_contents {border: solid 1px #696969; background-color: white;}
+.color-black{color: black;}

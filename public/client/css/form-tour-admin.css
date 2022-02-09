@@ -1,0 +1,16 @@
+.panel-body .row .form-control{background-color: white; color: black;}
+.panel-body .row input{padding: 10px; height: auto;}
+
+.page-breadcrumb > .row nav > ol.breadcrumb{
+    background: #EEF5F9;
+}
+
+.form-group > label{
+    color: black;
+}
+
+.form-group > select.form-control{
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
